@@ -5,7 +5,7 @@ This is my implementation of image denoising based on K-SVD algorithm.
 Python 3.10.13
 ```
 argparse
-nump
+numpy
 opencv
 scikit-image
 scikit-learn
